@@ -17,4 +17,4 @@ Basic coding; printing, control structures, operations, and Java Visuals.<b3>
 Devices:
 - Phone
 - Laptop 
-![Smiling Dog](https://share.google/eQ2GXBOPHyDTWswdY)
+![Smiling Dog](/assets/images/electrocat.png)
