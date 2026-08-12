@@ -1,6 +1,6 @@
 BSIT JOURNEY - Data Analytics
-            
-<body>
+[Works](https://github.com/Kami-Did?tab=repositories)
+
 <h1>About me:</h1>
 <h2>This will be my portfolio of work and code during my college years. I am currently studying the basics of Java, C++, and HTML.</h2>
 <h3>
@@ -17,5 +17,4 @@ Basic coding; printing, control structures, operations, and Java Visuals.<b3>
 Devices:
 - Phone
 - Laptop </h3>
-</body>
-</html>
+
