@@ -17,4 +17,4 @@ Basic coding; printing, control structures, operations, and Java Visuals.<b3>
 Devices:
 - Phone
 - Laptop 
-![Smiling Dog](https://myoctocat.com/assets/images/base-octocat.svg)
+![Smiling Dog](https://www.reddit.com/r/MadeMeSmile/comments/1o0un2q/this_dog_has_the_most_wholesome_smile/#lightbox)
