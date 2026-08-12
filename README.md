@@ -1,4 +1,4 @@
-# BSIT JOURNEY - Data Analytics
+# <ins> BSIT JOURNEY - Data Analytics </ins>
 [Works](https://github.com/Kami-Did?tab=repositories)
 
 ## About me:
