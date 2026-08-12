@@ -17,4 +17,4 @@ Basic coding; printing, control structures, operations, and Java Visuals.<b3>
 Devices:
 - Phone
 - Laptop 
-![Smiling Dog](https://www.reddit.com/r/MadeMeSmile/comments/1o0un2q/this_dog_has_the_most_wholesome_smile/#lightbox)
+![It's my turn](https://github.com/Kami-Did/Kami-Did/blob/main/NEVER%20GIVE%20UP.jpg?raw=true)
