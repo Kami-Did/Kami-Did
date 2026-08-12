@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>BSIT JOURNEY - Data Analytics</title>
-    <style>  
-        body {
-            background-color: lightblue;
-            text-align: left;
-        }
-</style>  
+BSIT JOURNEY - Data Analytics
+            
 <body>
 <h1>About me:</h1>
 <h2>This will be my portfolio of work and code during my college years. I am currently studying the basics of Java, C++, and HTML.</h2>
